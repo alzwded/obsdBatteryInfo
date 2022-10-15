@@ -1,0 +1,7 @@
+*.out
+batteryInfo
+*.o
+*.tmp
+*.core
+*.log
+
